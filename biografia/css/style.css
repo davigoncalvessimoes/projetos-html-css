@@ -1,0 +1,72 @@
+/* Usar ID e CLASS*/
+
+/* TAGS NORMAIS */
+
+body{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 4px #000 solid; 
+}
+
+/* CABEÇALHO */
+
+#titulo{
+    font-family: 'BioRhyme', serif;
+    text-align: center;
+    background-color: rgb(156, 14, 14);
+    color: #fff;
+    border-top: 4px #000 solid;
+    border-bottom: 4px #000 solid;
+}
+
+/* CONTEÚDO PRINCIPAL */
+
+main{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+main section h2{
+    font-family: 'BioRhyme', serif;
+}
+
+main section p{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    line-height: 1.5;
+}
+
+blockquote{
+    border: 5px rgb(16, 30, 221) solid;
+}
+
+blockquote p{
+    text-align: center;
+}
+
+/* MENU */
+
+.fotos {
+    width: 300px;
+    height: 200px;
+}
+
+nav{
+    text-align: center;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline;
+}
+
+
+/* RODAPÉ */
+
+footer p{
+    text-align: right;
+}
+
